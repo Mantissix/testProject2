@@ -1,2 +1,4 @@
-##项目介绍
-自动化训练营四期实战项目演示
+from test import *
+
+send_gift()
+show_gift(have_gift)
